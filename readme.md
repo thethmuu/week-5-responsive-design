@@ -1,3 +1,4 @@
-# Responsive Design
+# Exercise 03
 
-navigate different branches for each starter and solution files
+follow this figma link for design file
+https://www.figma.com/file/LEidV08qbO4p6G7CGPgCVE/CreaThit---Project-Designs?node-id=580%3A2
