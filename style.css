@@ -1,16 +1,4 @@
-/* 
-////// For this challenge ///////
-
-- All text is in the text.md file
-
-// Requirements
-1. Refer to the design specs for the
-   overall layout 
-2. The image should line up with
-   the sidebar in the section
-   below
-
-*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
 
 *,
 *::before,
@@ -20,7 +8,7 @@
 
 body {
   margin: 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1.3rem;
 }
 
@@ -59,8 +47,8 @@ h1 {
 
 .hero {
   padding: 100px 0;
-  background-color: #23424a;
-  color: #fff;
+  background-color: #c8e3f4;
+  color: #3d3c42;
 }
 
 .hero__text {
@@ -111,9 +99,9 @@ h1 {
   display: inline-block;
   text-decoration: none;
   text-transform: uppercase;
-  color: #23424a;
+  color: #fff;
   font-weight: 900;
-  background-color: #38cfd9;
+  background-color: #6e85b7;
   padding: 0.75em 2em;
   border-radius: 100px;
 }
